@@ -12,7 +12,7 @@ const handleLogin = () => {
 
   return (
     <div>
-      <h1>Home</h1>
+      <h1>Hasdsdome</h1>
       <InputWithLabel />
       <AppButton title={"Login"} onClick={handleLogin} />
     </div>
